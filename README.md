@@ -1,5 +1,3 @@
-# Digital-Dynamics
-
 Group Code:
 3107
 
